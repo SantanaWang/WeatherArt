@@ -3,3 +3,4 @@ requests
 pandas
 fuzzywuzzy
 datetime
+openpyxl
